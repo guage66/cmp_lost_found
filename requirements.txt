@@ -1,0 +1,4 @@
+flask
+pymysql
+werkzeug
+python-dotenv
